@@ -1,3 +1,5 @@
 .idea/
 target/
 maventest.iml
+.settings/
+.project
